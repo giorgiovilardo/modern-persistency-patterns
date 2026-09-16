@@ -1,0 +1,10 @@
+.env
+.DS_Store
+__pycache__/
+*.pyc
+target/
+node_modules/
+
+# Local scratch output: psql \o dumps, EXPLAIN captures, benchmark results.
+/tmp/
+/out/
